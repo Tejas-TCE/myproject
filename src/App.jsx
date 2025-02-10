@@ -15,7 +15,7 @@ import Home from './pag/Home.jsx';
 import About from './pag/About.jsx';
 import Contact from './pag/Contact.jsx';
 import Protected from './protected/Protected.jsx';
-import Loginpag from './pag/loginpag.jsx';
+import Loginpag from './pag/Loginpag.jsx';
 import Register from './pag/register.jsx'
 import Detallogin from './pag/Detallogin.jsx'
 import { BrowserRouter, Routes, Route } from "react-router-dom"
